@@ -1,6 +1,6 @@
 
 ## I'm a fulltime student and casual coder! <img src="https://github.com/leonboripgs/leonboripgs/blob/master/Badges/Hi.gif" width="29px">
-- 🔭 I’m currently working on finishing my Master's
+- 🔭 I’m currently working on DeFi, Blockchain
 - 🌱 I’m currently learning data science and analysis
 - ⚡ Fun fact: I love to play violin!
 
@@ -13,7 +13,6 @@
 ---
 
 ### Languages and Tools:
-[![Python](https://img.shields.io/badge/-Python-black?style=flat&logo=python&link=https://github.com/leonboripgs/)](https://github.com/leonboripgs/)
 [![Java](https://img.shields.io/badge/Java-orange?style=flat&logo=java&logoColor=white&link=https://github.com/leonboripgs/)](https://github.com/leonboripgs/)
 [![C&C++](https://img.shields.io/badge/-C%20&%20C++-659ad2?style=flat&logo=c%2B%2B&logoColor=ffffff&link=https://github.com/leonboripgs/)](https://github.com/leonboripgs/)
 
@@ -22,14 +21,10 @@
 [![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat&logo=bootstrap&link=https://github.com/leonboripgs/)](https://github.com/leonboripgs/)
 [![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat&logo=javascript&link=https://github.com/leonboripgs/)](https://github.com/leonboripgs/)
 [![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat&logo=mysql&link=https://github.com/leonboripgs/)](https://github.com/leonboripgs/)
-[![WordPress](https://img.shields.io/badge/-WordPress-21759B?style=flat&logo=wordpress)](https://github.com/leonboripgs/)
 
 [![Django](https://img.shields.io/badge/-django-black?style=flat&logo=django)](https://github.com/leonboripgs/)
-[![DataScience](https://github.com/leonboripgs/leonboripgs/blob/master/Badges/datascience.png)](https://github.com/leonboripgs/)
 [![ML](https://img.shields.io/badge/-Machine%20Learning-102230?style=flat)](https://github.com/leonboripgs/)
-[![AI](https://github.com/leonboripgs/leonboripgs/blob/master/Badges/ai.png)](https://github.com/leonboripgs/)
 
-[![IOT](https://github.com/leonboripgs/leonboripgs/blob/master/Badges/iot.png)](https://github.com/leonboripgs/)
 [![Raspberry Pi](https://img.shields.io/badge/-Raspberry%20Pi-C51A4A?style=flat&logo=Raspberry-Pi&link=https://github.com/leonboripgs/)](https://github.com/leonboripgs/)
 [![Arduino](https://img.shields.io/badge/-Arduino-black?style=flat&logo=Arduino&link=https://github.com/leonboripgs/)](https://github.com/leonboripgs/)
 
@@ -39,8 +34,6 @@
 
 [![Sublime Text](http://img.shields.io/badge/-Sublime%20Text-3C4858?style=flat&logo=sublime-text)](https://github.com/leonboripgs/)
 [![Visual Studio Code](https://img.shields.io/badge/-VSCode-444444?style=flat&logo=visual-studio-code&logoColor=007ACC)](https://github.com/leonboripgs/)
-[![Visual Studio](https://github.com/leonboripgs/leonboripgs/blob/master/Badges/visualstudio.png)](https://github.com/leonboripgs/)
-[![PyCharm](https://github.com/leonboripgs/leonboripgs/blob/master/Badges/pycharm.png)](https://github.com/leonboripgs/)
 
 [![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=flat&logo=gitlab&link=https://github.com/leonboripgs/)](https://github.com/leonboripgs/)
 [![Git](https://img.shields.io/badge/-Git-black?style=flat&logo=git&link=https://github.com/leonboripgs/)](https://github.com/leonboripgs/) 
@@ -59,8 +52,7 @@
 
 
 [github]: https://github.com/leonboripgs/
-[instagram]: https://www.instagram.com/svencelin/
-[linkedin]: https://www.linkedin.com/in/svencelin/
+[linkedin]: https://www.linkedin.com/in/maxsim-boiko-jin-1877b7205/
 
 
 
