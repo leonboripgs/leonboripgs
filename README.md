@@ -43,11 +43,7 @@
 
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leonboripgs&theme=white" /> 
 
-<img align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=leonboripgs&repo=Information-Visualisation&theme=white" /><br /><br /><br /><br /><br /><br />
-
-<img align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=leonboripgs&repo=NFC-doorlock---atmega-16a&theme=white" /><br /><br /><br /><br /><br /><br /><br />
-
-<img align="center" alt="SvenC's Github Stats" src="https://github-readme-stats.vercel.app/api?username=leonboripgs&show_icons=true&hide_border=true" /><br /><br />
+<img align="right" alt="SvenC's Github Stats" src="https://github-readme-stats.vercel.app/api?username=leonboripgs&show_icons=true&hide_border=true" /><br /><br />
 
 
 [github]: https://github.com/leonboripgs/
