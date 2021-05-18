@@ -7,8 +7,7 @@
 ### Connect with me:
 
 [<img align="left" alt="SvenC | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="SvenC | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-![visitors](https://visitor-badge.glitch.me/badge?page_id=leonboripgs.leonboripgs)
+[visitors](https://visitor-badge.glitch.me/badge?page_id=leonboripgs.leonboripgs)
 
 ---
 
