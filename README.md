@@ -1,5 +1,5 @@
 
-## I'm a fulltime student and casual coder! <img src="https://github.com/leonboripgs/leonboripgs/blob/master/Badges/Hi.gif" width="29px">
+## I'm a fulltime senior software engineer with 7+ years of experience. <img src="https://github.com/leonboripgs/leonboripgs/blob/master/Badges/Hi.gif" width="29px">
 - 🔭 I’m currently working on DeFi, Blockchain
 - 🌱 I’m currently learning data science and analysis
 - ⚡ Fun fact: I love to play violin!
