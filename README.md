@@ -1,6 +1,6 @@
 ## Senior software engineer with 7+ years of experience. <img src="https://github.com/leonboripgs/leonboripgs/blob/master/Badges/Hi.gif" width="29px">
-- 🔭 Founder of PayrLink, decentralized Escrow for 
-- ⚡ Fun fact: I love to play volleyball!
+- 🔭 Founder of PayrLink, decentralized Escrow for cryptocurrency
+- ⚡ Fun fact: I love to play volleyball
 
 ### Connect with me:
 
