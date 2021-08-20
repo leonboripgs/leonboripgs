@@ -1,23 +1,26 @@
-## Senior software engineer with 7+ years of experience. <img src="https://github.com/leonboripgs/leonboripgs/blob/master/Badges/Hi.gif" width="29px">
-- 🔭 Founder of PayrLink, decentralized Escrow for cryptocurrency
+## Senior Blockchain Architect & Full stack engineer with 7+ years of experience. 👋
+
+- 🔭 Lead Developer & Co-Founder of PayrLink, decentralized Escrow for cryptocurrency
+- ✌️ Passionate and highly self-motivated full-stack engineer with extra-ordinary skills.
+- 😎 Love to collabrate with team and learn from members.
+- 😤 Afraid of wasting time.
 - ⚡ Fun fact: I love to play volleyball
 
 ### Connect with me:
 
-[<img align="left" alt="SvenC | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[visitors](https://visitor-badge.glitch.me/badge?page_id=leonboripgs.leonboripgs)
-
+[<img align="left" alt="SvenC | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]: https://www.linkedin.com/in/maxsim-boiko-jin-1877b7205/
 ---
 
 ### Languages and Tools:
-[![Java](https://img.shields.io/badge/Java-orange?style=flat&logo=java&logoColor=white&link=https://github.com/leonboripgs/)](https://github.com/leonboripgs/)
-[![C&C++](https://img.shields.io/badge/-C%20&%20C++-659ad2?style=flat&logo=c%2B%2B&logoColor=ffffff&link=https://github.com/leonboripgs/)](https://github.com/leonboripgs/)
 
 [![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white&link=https://github.com/leonboripgs/)](https://github.com/leonboripgs/) 
 [![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&link=https://github.com/leonboripgs/)](https://github.com/leonboripgs/) 
 [![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat&logo=bootstrap&link=https://github.com/leonboripgs/)](https://github.com/leonboripgs/)
 [![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat&logo=javascript&link=https://github.com/leonboripgs/)](https://github.com/leonboripgs/)
 [![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat&logo=mysql&link=https://github.com/leonboripgs/)](https://github.com/leonboripgs/)
+
+[![Java](https://img.shields.io/badge/Java-orange?style=flat&logo=java&logoColor=white&link=https://github.com/leonboripgs/)](https://github.com/leonboripgs/)
+[![C&C++](https://img.shields.io/badge/-C%20&%20C++-659ad2?style=flat&logo=c%2B%2B&logoColor=ffffff&link=https://github.com/leonboripgs/)](https://github.com/leonboripgs/)
 
 [![Django](https://img.shields.io/badge/-django-black?style=flat&logo=django)](https://github.com/leonboripgs/)
 [![ML](https://img.shields.io/badge/-Machine%20Learning-102230?style=flat)](https://github.com/leonboripgs/)
@@ -42,23 +45,3 @@
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leonboripgs&theme=white" /> 
 
 <img align="right" alt="SvenC's Github Stats" src="https://github-readme-stats.vercel.app/api?username=leonboripgs&show_icons=true&hide_border=true" /><br /><br />
-
-
-[github]: https://github.com/leonboripgs/
-[linkedin]: https://www.linkedin.com/in/maxsim-boiko-jin-1877b7205/
-
-
-
-<!---
-[![SpringBoot](https://img.shields.io/badge/-Springboot-black?style=flat&logo=spring&link=https://github.com/leonboripgs/)](https://github.com/leonboripgs/) 
-[![React](https://img.shields.io/badge/-React-black?style=flat&logo=react&link=https://github.com/leonboripgs/)](https://github.com/leonboripgs/) 
-<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=leonboripgs&repo=VisualAnalytics&theme=white" />
-<img align="center" src="https://img.shields.io/badge/-R-black?style=flat&logo=r&logoColor=5b8cc4"> <br />
->
-<!---
-<img src="https://github.com/anishghimire603/anishghimire603/blob/master/Assets/iot.svg" alt="iot" style="vertical-align:top; margin:4px">
-<img src="https://github.com/anishghimire603/anishghimire603/blob/master/Assets/ai.svg" alt="ai" style="vertical-align:top; margin:4px">
-<img src="https://github.com/anishghimire603/anishghimire603/blob/master/Assets/datascience.svg" alt="datascience" style="vertical-align:top; margin:4px">
-<img src="https://github.com/anishghimire603/anishghimire603/blob/master/Assets/visualstudio.svg" alt="vs" style="vertical-align:top; margin:4px">
-<img src="https://github.com/anishghimire603/anishghimire603/blob/master/Assets/jetbrains_pycharm.svg" alt="pycharm" style="vertical-align:top; margin:4px">
---->
