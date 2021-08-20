@@ -8,8 +8,8 @@
 
 ### Connect with me:
 
-[<img align="left" alt="SvenC | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]: https://www.linkedin.com/in/maxsim-boiko-jin-1877b7205/
----
+[<img align="left" alt="SvenC | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/maxsim-boiko-jin-1877b7205/
+---)[linkedin]
 
 ### Languages and Tools:
 
