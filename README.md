@@ -11,6 +11,7 @@
 [<img align="left" alt="SvenC | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"/>](https://www.linkedin.com/in/maxsim-boiko-jin-1877b7205)
 
 <br />
+
 ### Languages and Tools:
 
 [![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white&link=https://github.com/leonboripgs/)](https://github.com/leonboripgs/) 
