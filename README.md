@@ -9,5 +9,5 @@
 - Build tokens, dApps, and Blockchain related systems such as Oracle, DEX, decentralized voting and betting.
 - Build front-ends using React.js + Web3.js
 ## :speech_balloon: What I am focusing on
-- Currently improving my Smart Contract skills for different blockchains: Solidity, Rust, Go
+- Currently improving my skills for building Smart Contract on different blockchains: Solidity, Rust, Go
 <br />
